@@ -11095,9 +11095,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\kouli\\source\\repos\\pizza_mama\\pizza_mama\\pizza_mama.csproj",
-      "projectName": "pizza_mama",
-      "projectPath": "C:\\Users\\kouli\\source\\repos\\pizza_mama\\pizza_mama\\pizza_mama.csproj",
+      "projectUniqueName": "C:\\Users\\kouli\\source\\repos\\pizza_mama\\pizza_mama\\pizza_mama_V2.csproj",
+      "projectName": "pizza_mama_V2",
+      "projectPath": "C:\\Users\\kouli\\source\\repos\\pizza_mama\\pizza_mama\\pizza_mama_V2.csproj",
       "packagesPath": "C:\\Users\\kouli\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\kouli\\source\\repos\\pizza_mama\\pizza_mama\\obj\\",
       "projectStyle": "PackageReference",

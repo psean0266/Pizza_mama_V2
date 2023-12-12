@@ -145,19 +145,19 @@
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
     },
     {
-      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.pizza_mama.props",
-      "PackagePath": "build\\pizza_mama.props"
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.pizza_mama_V2.props",
+      "PackagePath": "build\\pizza_mama_V2.props"
     },
     {
-      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.pizza_mama.props",
-      "PackagePath": "buildMultiTargeting\\pizza_mama.props"
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.pizza_mama_V2.props",
+      "PackagePath": "buildMultiTargeting\\pizza_mama_V2.props"
     },
     {
-      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.pizza_mama.props",
-      "PackagePath": "buildTransitive\\pizza_mama.props"
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.pizza_mama_V2.props",
+      "PackagePath": "buildTransitive\\pizza_mama_V2.props"
     },
     {
-      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.pizza_mama.Microsoft.AspNetCore.StaticWebAssets.props",
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.pizza_mama_V2.Microsoft.AspNetCore.StaticWebAssets.props",
       "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
     }
   ],

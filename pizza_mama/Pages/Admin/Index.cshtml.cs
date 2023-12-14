@@ -17,10 +17,10 @@ namespace pizza_mama.Pages.Admin
         IConfiguration configuration;
 
         public IndexModel (IConfiguration configuration)
-        {
+        {   
             this.configuration = configuration;
         }
-        public IActionResult OnGet()
+        public IActionResult OnGet() 
         {
             if (HttpContext.User.Identity.IsAuthenticated)
             {

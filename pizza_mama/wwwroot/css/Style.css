@@ -5,15 +5,19 @@ li{
 }
 
 body {
-    background: linear-gradient(0deg, rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.3)), url("/images/menu_background.jpg") no-repeat center center fixed;
+    background: linear-gradient(0deg, rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.3)), url("/images/menu_background.jpg") ;
     -webkit-background-size: cover;
     -moz-background-size: cover;
     -o-background-size: cover;
     background-size: cover;
+
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-attachment: scroll;
+
     font-family: Arial;
     margin: 0px;
     color: white;
-    background-attachment: scroll;
 }
 
 #small_logo{
@@ -68,4 +72,36 @@ h1 {
     display:inline-block;
     margin-top:6px;
     
+}
+
+.homePage {
+    background-image: url("/images/main_background.jpg");
+    background-attachment: fixed;
+}
+
+.centered {
+    position: fixed;
+    top: 50%;
+    left: 50%;
+    /* bring your own prefixes */
+    transform: translate(-50%, -50%);
+    
+}
+
+div.homePage {
+    color: red;
+    font-size: 18px;
+    display: block;
+    margin-top: 30px;
+    text-align: center;
+    background-color: transparent;
+}
+
+.main_link_position {
+    text-align: center;
+    display: block;
+    margin-top: 30px
+}
+.main_link_position a {
+    color: red;
 }
